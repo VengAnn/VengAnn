@@ -48,8 +48,7 @@ I have experience building scalable mobile and web applications with clean archi
 - MySQL
 - PostgreSQL
 - Firebase
-- Docker
-- AWS
+- MogoDB
 
 ---
 
