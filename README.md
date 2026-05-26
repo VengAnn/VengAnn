@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VengAnn/VengAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Kun Veng Ann
 
-Here are some ideas to get you started:
+### Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about building modern mobile and web applications using Flutter, Laravel, Node.js, ASP.NET, and Java technologies.
+
+<p>
+<strong>Flutter • Dart • Laravel • Node.js • Java • ASP.NET • Firebase • REST API</strong>
+</p>
+
+<p>
+⚡ Explore more on my portfolio:
+<a href="https://yourwebsite.com">Official Website</a>
+</p>
+
+![Profile View](https://komarev.com/ghpvc/?username=yourgithubusername&style=flat&color=brightgreen)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Kun Veng Ann**, a passionate Full Stack Developer from Cambodia 🇰🇭.
+
+I have experience building scalable mobile and web applications with clean architecture, REST APIs, and modern development technologies. I enjoy learning new technologies, solving real-world problems, and creating high-performance applications with great user experiences.
+
+---
+
+## 🚀 Tech Stack
+
+### Mobile & Frontend
+- Flutter
+- Dart
+- React
+- Next.js
+- HTML / CSS / Tailwind
+
+### Backend
+- Laravel
+- Node.js
+- ASP.NET Core
+- Spring Boot
+
+### Database & Cloud
+- MySQL
+- PostgreSQL
+- Firebase
+- Docker
+- AWS
+
+---
+
+## 📫 Contact
+
+- 🌍 Phnom Penh, Cambodia
+- 📧 your_email@gmail.com
+- 💼 LinkedIn
+- 🌐 Portfolio Website
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ❤️
+
+</div>
