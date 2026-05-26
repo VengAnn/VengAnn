@@ -34,8 +34,9 @@ I have experience building scalable mobile and web applications with clean archi
 ### Mobile & Frontend
 - Flutter
 - Dart
-- React
-- Next.js
+- JavaScript
+- Java
+- Python
 - HTML / CSS / Tailwind
 
 ### Backend
@@ -55,7 +56,7 @@ I have experience building scalable mobile and web applications with clean archi
 ## 📫 Contact
 
 - 🌍 Phnom Penh, Cambodia
-- 📧 your_email@gmail.com
+- 📧 kunvengann@gmail.com
 - 💼 LinkedIn
 - 🌐 Portfolio Website
 
