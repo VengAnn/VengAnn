@@ -29,9 +29,8 @@ I have experience building scalable mobile and web applications with clean archi
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Skills
 
-### Mobile & Frontend
 - Flutter
 - Dart
 - JavaScript
@@ -39,17 +38,15 @@ I have experience building scalable mobile and web applications with clean archi
 - Python
 - HTML / CSS / Tailwind
 
-### Backend
 - Laravel
-- Node.js
-- ASP.NET Core
+- Node.js (Express)
 - Spring Boot
+- ASP.NET Core
 
-### Database & Cloud
 - MySQL
 - PostgreSQL
+- MongoDB
 - Firebase
-- MogoDB
 
 ---
 
