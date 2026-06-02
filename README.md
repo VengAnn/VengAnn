@@ -12,7 +12,7 @@ Passionate about building modern mobile and web applications using Flutter, Lara
 
 <p>
 ⚡ Explore more on my portfolio:
-<a href="https://vengann.github.io/portfolio.github.io/">Official Website</a>
+<a href="https://vengann.github.io/portfolio.github.io/">My Portfolio Website</a>
 </p>
 
 ![Profile View](https://komarev.com/ghpvc/?username=VengAnn&style=flat&color=brightgreen)
