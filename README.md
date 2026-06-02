@@ -57,7 +57,7 @@ I have experience building scalable mobile and web applications with clean archi
 
 🌍 Location: [Phnom Penh, Cambodia](https://www.google.com/maps/search/?api=1&query=11.494018345844479,104.86954665887113)  
 📧 Email: [kunvengann@gmail.com](mailto:kunvengann@gmail.com)  
-💼 LinkedIn: [View Profile](https://www.linkedin.com/in/kun-veng-ann-1924352b1/)  
+💼 LinkedIn: [View Profile LinkedIn](https://www.linkedin.com/in/kun-veng-ann-1924352b1/)  
 🌐 Portfolio: [Visit Website](https://vengann.github.io/portfolio.github.io/)
 
 ---
