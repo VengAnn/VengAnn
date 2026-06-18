@@ -12,7 +12,7 @@ Passionate about building modern mobile and web applications using Flutter, Lara
 
 <p>
 ⚡ Explore more on my portfolio:
-<a href="https://vengann.github.io/portfolio.github.io/">My Portfolio Website</a>
+<a href="https://veng-ann-portfolio.vercel.app/">My Portfolio Website</a>
 </p>
 
 ![Profile View](https://komarev.com/ghpvc/?username=VengAnn&style=flat&color=brightgreen)
@@ -41,6 +41,7 @@ I have experience building scalable mobile and web applications with clean archi
 - Laravel
 - Node.js (Express)
 - Spring Boot
+- FlaskApi
 - ASP.NET Core
 
 - MySQL
@@ -55,7 +56,7 @@ I have experience building scalable mobile and web applications with clean archi
 🌍 Location: [Phnom Penh, Cambodia](https://www.google.com/maps/search/?api=1&query=11.494018345844479,104.86954665887113)  
 📧 Email: [kunvengann@gmail.com](mailto:kunvengann@gmail.com)  
 💼 LinkedIn: [View Profile LinkedIn](https://www.linkedin.com/in/kun-veng-ann-1924352b1/)  
-🌐 Portfolio: [Visit Website](https://vengann.github.io/portfolio.github.io/)
+🌐 Portfolio: [Visit Website](https://veng-ann-portfolio.vercel.app/)
 
 ---
 
