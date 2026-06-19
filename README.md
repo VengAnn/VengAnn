@@ -15,7 +15,7 @@ Passionate about building modern mobile and web applications using Flutter, Lara
 <a href="https://veng-ann-portfolio.vercel.app/">My Portfolio Website</a>
 </p>
 
-![Profile View](https://komarev.com/ghpvc/?username=VengAnn&style=flat&color=brightgreen)
+<img src="https://komarev.com/ghpvc/?username=vengann&style=flat&color=brightgreen" alt="Profile Views"/>
 
 </div>
 
