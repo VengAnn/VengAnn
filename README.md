@@ -4,10 +4,10 @@
 
 ### Full Stack Developer
 
-Passionate about building modern mobile and web applications using Flutter, Laravel, Node.js, ASP.NET, and Java technologies.
+Passionate about building modern mobile and web applications using Flutter, Laravel, Node.js, and Java technologies.
 
 <p>
-<strong>Flutter • Dart • Laravel • Node.js • Java • ASP.NET • Firebase • REST API</strong>
+<strong>Flutter • Dart • Laravel • Node.js • Java • Firebase • REST API</strong>
 </p>
 
 <p>
@@ -42,7 +42,6 @@ I have experience building scalable mobile and web applications with clean archi
 - Node.js (Express)
 - Spring Boot
 - FlaskApi
-- ASP.NET Core
 
 - MySQL
 - PostgreSQL
