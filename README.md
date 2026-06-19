@@ -36,7 +36,7 @@ I have experience building scalable mobile and web applications with clean archi
 - JavaScript
 - Java
 - Python
-- HTML / CSS / Tailwind
+- HTML / CSS / Tailwind / Bootstrap
 
 - Laravel
 - Node.js (Express)
